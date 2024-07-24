@@ -12,13 +12,13 @@
     },  
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~NmdRGYqI#X88nLRnQFV-tAPYNN8ogClpiRsRalJKcCLQW5UCrpG0",
+      "description": "xxxxxxxxxxxxx",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "xxxxxxxxxxx",
       "required": true
     }   
 },
